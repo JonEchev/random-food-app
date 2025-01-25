@@ -42,7 +42,7 @@ El código se encuentra implementado con Java y Gradle usando la siguiente libre
 ## Endpoints
 
 - **LOCAL**
-    - Se debe 
+    - Se debe conectar el dispositivo móvil y desplegar mediante la opción: Run 'app'.
 
 ## Autor y contacto
 
