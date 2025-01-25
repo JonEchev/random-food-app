@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ruleta Comidas LP</string>
+    <string name="txt_mensaje_bienvenido_usuario">.::Ingrese su nombre por favor y presione el botón::.</string>
+    <string name="txt_bienvenido">Bienvenid@:</string>
+    <string name="txt_mensaje_agregar">Escriba las comidas que desea almacenar en la base de datos de la App, separadas por el caracter coma (,) y presione el botón Guardar:</string>
+    <string name="btn_ingresar_txt">Ingresar</string>
+    <string name="btn_guardar_txt">Guardar</string>
+    <string name="btn_config_txt">Config</string>
+    <string name="btn_aceptar_txt">Aceptar</string>
+    <string name="btn_cancelar_txt">Cancelar</string>
+    <string name="btn_salir_txt">Salir</string>
+    <string name="btn_atras_txt">Atras</string>
+    <string name="btn_limpiar_txt">Limpiar</string>
+    <string name="btn_reset_txt">Reset</string>
+    <string name="btn_agregar_comidas_txt">Agregar Comidas</string>
+    <string name="btn_ruleta_comidas_txt">Ruleta Comidas</string>
+    <string name="txt_mensaje_comida_sugerida">La comida sugerida por el destino para cocinar es:</string>
+    <string name="txt_tooltip_nombre">Ingrese su nombre...</string>
+    <string name="txt_tooltip_config">Ingrese el número de días \nen los que no desea que se \nrepita una sugerencia de comidas?\n(Por defecto, se almacenan las comidas \nde los ultimos 7 días.)</string>
+    <string name="txt_pie_pagina_general">Developed by JonEchev - 2024 (v1.3)</string>
+</resources>
